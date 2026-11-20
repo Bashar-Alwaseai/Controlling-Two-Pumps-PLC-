@@ -1,4 +1,4 @@
-# Control Tow Pump PLC
+# Control Tow Pump By PLC
 
 A PLC-based control system for two water pumps, programmed in Function Block Diagram (FBD) using **Siemens LOGO!**. The system alternates operation between Pump 1 and Pump 2 with a single push button, ensures that only one pump runs at a time, records each pump's operating time, and shows the live status on the LOGO! display.
 
